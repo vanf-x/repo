@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clonazepunk
 - 👀 I’m interested in Java, Javascript, HTML, CSS, SAP
-- 🌱 I’m currently learning Java (Polo TIC Misiones), SAP (Udemy)
+- 🌱 I’m currently learning Java (Polo TIC Misiones), SAP (Udemy), Tecnicatura en Sistemas (IRSO)
 - 📫 How to reach me at facundoaguirre1989@gmail.com
 
 <!---
